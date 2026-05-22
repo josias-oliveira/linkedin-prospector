@@ -1,0 +1,19 @@
+# Sessão LinkedIn (contém cookies — nunca suba isso)
+.session.json
+
+# Banco de dados local
+prospects.db
+
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
